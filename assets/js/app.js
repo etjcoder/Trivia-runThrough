@@ -1,3 +1,5 @@
+console.log("running script")
+
 
 $("#question-1").hide()
 $("#question-2").hide()
